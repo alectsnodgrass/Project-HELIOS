@@ -124,7 +124,7 @@ Secondary stakeholders include organizations that utilize LSV fleets, such as go
 ### 1. Reports
 
     Poster Template
-    Figures
+    Report Figures
     0. Team 6 Contract
     1. Project Proposal Specification
     2. Conceptual Design Specifications
@@ -140,8 +140,11 @@ Secondary stakeholders include organizations that utilize LSV fleets, such as go
 
     0. Project Details
         - Club Car Manuals
-        - Standards_Codes
-        - Project Outline
+        - Rubrics
+        - Standards
+        - Team 1 Project Outline
+        - Team 6 Project Outline
+        - Project Timeline
     1. Photos
         - 0. Initial State of LSV
         - 1. Conversion Process
@@ -150,6 +153,32 @@ Secondary stakeholders include organizations that utilize LSV fleets, such as go
         - PCB
         - Schematics
     3. Software
+    4. Mechanical
+        - CAD Parts
+        - Cad Assemblies
+        - Chinese Drawings
 
 ### 3. Meeting Minutes
 
+    Meeting Minutes Week 1
+    Meeting Minutes Week 2
+    Meeting Minutes Week 3
+    Meeting Minutes Week 4
+    Meeting Minutes Week 5
+    Meeting Minutes Week 6
+    Meeting Minutes Week 7
+    Meeting Minutes Week 8
+    Meeting Minutes Week 9
+    Meeting Minutes Week 10
+    Meeting Minutes Week 11
+    Meeting Minutes Week 12
+    Meeting Minutes Week 13
+    Meeting Minutes Week 14
+    Meeting Minutes Week 15
+    Meeting Minutes Week 16
+    Meeting Minutes Week 17
+    Meeting Minutes Week 18
+    Meeting Minutes Week 19
+    Meeting Minutes Week 20
+    Meeting Minutes Week 21
+    Meeting Minutes Week 22
