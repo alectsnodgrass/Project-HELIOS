@@ -1,18 +1,25 @@
-# **Lani Solar Partnership: Self-Sustaining, Renewable Energy Vehicle**
+# **Project HELIOS**
+
+> [!NOTE]
+> Project HELIOS takes its name from Helios, the Greek personification of the Sun. In ancient mythology, Helios commanded a magnificent chariot of fire, drawn by four powerful horses, carrying the Sun across the heavens each day.
+> 
+> His legendary journey symbolizes the union of solar energy, power, and motion. Just as Helios harnessed the power of the Sun to drive his celestial chariot, Project HELIOS seeks to harness solar energy to power modern vehicles.
+<img width="368" height="300" alt="HELIOS" src="https://github.com/user-attachments/assets/a5263699-9cf3-4ba8-8307-cf93b67f0727" />
+
 
 # Executive Summary
 
 ### Elevator Pitch
 
-Team 6 transformed an incomplete, nonoperational golf cart into a working platform for evaluating solar-assisted electric transportation. In partnership with LANI-EV, the team restored Tennessee Tech’s Club Car, integrated a lithium iron phosphate battery and solar-charging system, and evaluated how solar energy replenishes the battery relative to vehicle energy use. The project also produced an adaptable solar-panel mounting kit and a simulated four-servo control concept that directs the panel toward the sun while the cart is parked. Together, these outcomes provide practical designs, performance evidence, and repeatable documentation to support future solar-powered vehicle retrofits.
+Project HELIOS transformed an incomplete, nonoperational golf cart into a working platform for evaluating solar-assisted electric transportation. In partnership with LANI-EV, a division of LANI-Solar, the team restored Tennessee Tech’s Club Car, integrated a lithium iron phosphate battery and solar-charging system, and evaluated how solar energy replenishes the battery relative to vehicle energy use. The project also produced an adaptable solar-panel mounting kit and a simulated four-servo control concept that directs the panel toward the sun while the cart is parked. Together, these outcomes provide practical designs, performance evidence, and repeatable documentation to support future solar-powered vehicle retrofits.
 
 ### Abstract
 
-Solar-assisted low-speed vehicles offer an opportunity to supplement grid charging with onboard renewable energy. Their practical value depends on reliable integration, adaptable mounting hardware, and an understanding of how solar generation compares with vehicle energy demand. Working with LANI-EV, Tennessee Technological University’s Electrical and Computer Engineering Team 6 addressed these challenges through vehicle restoration, retrofit implementation, performance testing, and control-system design.
+Solar-assisted low-speed vehicles offer an opportunity to supplement grid charging with onboard renewable energy. Their practical value depends on reliable integration, adaptable mounting hardware, and an understanding of how solar generation compares with vehicle energy demand. Working with LANI-EV, Tennessee Technological University’s Electrical and Computer Engineering Project HELIOS addressed these challenges through vehicle restoration, retrofit implementation, performance testing, and control-system design.
 
 The team restored an inherited Club Car that arrived partially disassembled and without batteries or a steering wheel. A lithium iron phosphate battery and solar-charging system were integrated, supported by an illustrated conversion procedure, as-built electrical documentation, and installation records. Post-conversion testing characterized solar charging and vehicle discharge under documented operating conditions, providing an evidence-based assessment of the system’s energy balance.
 
-To improve installation adaptability, the team surveyed roof configurations across three major vehicle brands and developed a functional mounting-kit prototype designed to accommodate selected models from at least two brands. The team also developed and evaluated a software concept for parked-vehicle solar tracking. Using vehicle-state, compass-heading, date/time, and geographic-location inputs, the algorithm generated coordinated commands for four servos within a modeled range of panel motion. Simulation evaluated orientation calculations, operating-state transitions, and responses to invalid inputs.
+To improve installation adaptability, the team surveyed roof configurations across three major vehicle brands and developed a functional mounting-kit prototype designed to accommodate selected models from at least two brands. The team also developed and evaluated a concept for parked-vehicle solar tracking. Using vehicle-state, solar optics, and position tracking the algorithm generated coordinated commands for four servos within a modeled range of panel motion. Simulation evaluated orientation calculations, operating-state transitions, and responses to invalid inputs.
 
 The completed project delivered a restored demonstration vehicle, retrofit documentation, performance data, a mounting-kit engineering package, and a simulated solar-tracking concept. These deliverables establish a foundation for LANI-EV and future engineering teams to refine solar-assisted vehicle designs and assess their suitability for specific operating conditions.
 
