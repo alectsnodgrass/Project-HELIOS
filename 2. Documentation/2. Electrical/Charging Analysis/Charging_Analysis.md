@@ -58,25 +58,25 @@ Figures 1–4 show measurements from the original charging system collected on O
 
 ## Figure 1. Power throughout each test day
 
-![Power vs. Time](Charging_Analysis_figure1.png)
+![Experimental analysis graph](media/image1.png)
 
 Power changed throughout each test day. The curves also show that the measurements were taken over different time windows, so this graph is a baseline rather than a direct comparison with tracking.
 
 ## Figure 2. Average power by test date
 
-![Average Power](Charging_Analysis_figure2.png)
+![Experimental analysis graph](media/image2.png)
 
 November 7 had the highest average power of the four test days. Differences between days may be related to both sunlight and charging conditions.
 
 ## Figure 3. Estimated energy by test date
 
-![Estimated Energy](Charging_Analysis_figure3.png)
+![Experimental analysis graph](media/image3.png)
 
 The energy totals were estimated from the power readings. November 8 had a longer test period than the other days, which should be considered when comparing totals.
 
 ## Figure 4. Battery percentage throughout testing
 
-![Battery Percentage](Charging_Analysis_figure4.png)
+![Experimental analysis graph](media/image4.png)
 
 The battery percentage readings show how the reported state of charge changed during testing. On October 9, the battery increased from 6% to 16%, a gain of 10 percentage points. On November 3, it increased from 17% to 24%, a gain of 7 percentage points. On November 7, it increased from 24% to 35%, a gain of 11 percentage points. On November 8, it increased from 34% to 46%, a gain of 12 percentage points. The starting battery percentages and test durations differed, so these changes should not be treated as direct measures of charging energy.
 
