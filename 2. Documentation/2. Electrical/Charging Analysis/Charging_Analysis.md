@@ -71,7 +71,7 @@ Five days of baseline testing were completed with the original fixed solar panel
 | October 9 | 4 h 35 min | 681.9 | 6% | 16% | +10 |
 | November 3 | 4 h 35 min | 648.8 | 17% | 24% | +7 |
 | November 7 | 4 h 35 min | 851.7 | 24% | 35% | +11 |
-| November 8 | 4 h 35 min | 763.3 | 34% | 45% | +11 |
+| November 8 | 4 h 35 min | 763.2 | 34% | 45% | +11 |
 | November 15 | 4 h 35 min | 832.3 | 45% | 57% | +12 |
 
 ### 4.1 Charging power throughout the test days
